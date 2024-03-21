@@ -14,4 +14,5 @@ grid․slasher c16d
 
 
 >> BannedPlayers > Banned
-//WAITING FOR SOMEONE BEING SHITTY
+//
+9Blade eee6
